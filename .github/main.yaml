@@ -3,7 +3,7 @@ name: Autobuild README
 on:
   push:
     branches:
-      - main
+      - master
   schedule:
     # README updates every new hour
     # Use '0 */1 * * *' or '@hourly'
