@@ -49,7 +49,7 @@ async function setWeatherInformation() {
       hour: DATE_OPTIONS.hour,
       hour12: DATE_OPTIONS.hour12,
     });
-    DATA.time_before_sunset = Math.floor((json.sys.sunset * 1000 - Date.now()) / 1000 / 60 / 60);
+    DATA.time_before_sunset = ((json.sys.sunset * 1000 - Date.now()) / 1000 / 60 / 60).toFixed(2);
     DATA.time_before_friday = Math.floor(getTimeUntilNextFriday18h());
     DATA.weather_icon_url = `http://openweathermap.org/img/w/${json.weather[0].icon}.png`;
   } catch (error) {
