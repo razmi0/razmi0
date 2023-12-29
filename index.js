@@ -31,7 +31,6 @@ async function setWeatherInformation() {
       `https://api.openweathermap.org/data/2.5/weather?q=${DATA.location}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
     );
     const json = await response.json();
-    console.log(json);
     DATA.temperature = json.main.temp;
     DATA.temp_min = json.main.temp_min;
     DATA.temp_max = json.main.temp_max;
