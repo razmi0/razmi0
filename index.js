@@ -52,9 +52,14 @@ async function setWeatherInformation() {
     });
     const time_before_sunset = ((json.sys.sunset * 1000 - Date.now()) / 1000 / 60 / 60).toFixed(2);
     const time_before_friday = Math.floor(getTimeUntilNextFriday18h());
-    DATA.time_before_friday = time_before_friday < 0 ? "It's friday !" : `${time_before_friday} hours before friday`;
+    DATA.time_before_friday =
+      time_before_friday < 0
+        ? "It's friday night, it's the weekend ! 💪"
+        : `${time_before_friday} hour${time_before_friday > 1 ? "s" : ""} before friday night `;
     DATA.time_before_sunset =
-      time_before_sunset < 0 ? "It's night time !" : `${time_before_sunset} hours before sunset`;
+      time_before_sunset < 0
+        ? "It's night time ! 😴"
+        : `${time_before_sunset} hour${time_before_sunset > 1 ? "s" : ""} before sunset`;
   } catch (error) {
     throw error;
   }

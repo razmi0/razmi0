@@ -1,16 +1,16 @@
 # Welcome! 👋😎 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frazmi0"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frazmi0&countColor=%23dce775&style=flat" /></a>
 
-🌀 Last refresh at Friday, December 29 at 18:18 GMT+1. <br />
-#### Weather in Toulouse : Clouds, 11.92°C, 82% humidity, 2.57 km/h wind speed.<br />
+🌀 Last refresh at Friday, December 29 at 19:06 GMT+1. <br />
+#### Weather in Toulouse : Clouds, 10.95°C, 87% humidity, 1.54 km/h wind speed.<br />
 <ul>
-    <li>Today min | max temperature : 10.98°C | 11.99°C</li>
+    <li>Today min | max temperature : 10.42°C | 10.99°C</li>
     <li>Today sunrise | sunset : 08:27 | 17:24</li>
-    <li>It&#39;s night time !</li>
-    <li>It&#39;s friday !</li>
+    <li>It&#39;s night time ! 😴</li>
+    <li>It&#39;s friday night, it&#39;s the weekend ! 💪</li>
 </ul>
 <br />
 
-Reach to me on : <br />
+Reach to me on 👇 <br />
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.cuesta31@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-web-cuesta-thomas/)
 
