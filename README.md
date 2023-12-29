@@ -1,17 +1,24 @@
-## Welcome! 👋😎 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frazmi0"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frazmi0&countColor=%23dce775&style=flat" /></a>
+# Welcome! 👋😎 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frazmi0"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frazmi0&countColor=%23dce775&style=flat" /></a>
 
-🌀 Last refresh at Friday, December 29 at 17:01 GMT+1. <br /><br />
+🌀 Last refresh at Friday, December 29 at 18:18 GMT+1. <br />
+#### Weather in Toulouse : Clouds, 11.92°C, 82% humidity, 2.57 km/h wind speed.<br />
 <ul>
-    <li>Weather in Toulouse : Clear </li>
-    <li>Current temperature : 13.85°C.</li>
-    <li>Humidity : 72%.</li>
-    <li>Wind speed : 1.54 km/h.</li>
-    <br />
-    <li>Today min / max temperature : 12.09°C | 13.99°C</li>
-    <li>Today sunrise / sunset : 08:27 | 17:24</li>
-    <li>Still 0.39h before sunset and 0h before Friday night 💅.</li>
+    <li>Today min | max temperature : 10.98°C | 11.99°C</li>
+    <li>Today sunrise | sunset : 08:27 | 17:24</li>
+    <li>It&#39;s night time !</li>
+    <li>It&#39;s friday !</li>
 </ul>
 <br />
 
+Reach to me on : <br />
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.cuesta31@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-web-cuesta-thomas/)
+
+<hr /> <br />
+
+<a>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=razmi0&show_icons=true&hide=stars,issues&theme=merko&rank_icon=percentile&custom_title=My%20GitHub%20Stats&line_height=30&card_width=200&text_bold=false&border_radius=0&hide_border=true" />
+</a>
+<a>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razmi0&layout=donut&theme=merko&langs_count=5&size_weight=0.5&count_weight=0.5&border_radius=0&hide_border=true" />
+</a>

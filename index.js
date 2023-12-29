@@ -43,15 +43,18 @@ async function setWeatherInformation() {
       hour: DATE_OPTIONS.hour,
       hour12: DATE_OPTIONS.hour12,
     });
+    DATA.weather_icon_url = `http://openweathermap.org/img/w/${json.weather[0].icon}.png`;
     DATA.sunset = new Date(json.sys.sunset * 1000).toLocaleTimeString("en-EN", {
       timeZone: DATE_OPTIONS.timeZone,
       minute: DATE_OPTIONS.minute,
       hour: DATE_OPTIONS.hour,
       hour12: DATE_OPTIONS.hour12,
     });
-    DATA.time_before_sunset = ((json.sys.sunset * 1000 - Date.now()) / 1000 / 60 / 60).toFixed(2);
-    DATA.time_before_friday = Math.floor(getTimeUntilNextFriday18h());
-    DATA.weather_icon_url = `http://openweathermap.org/img/w/${json.weather[0].icon}.png`;
+    const time_before_sunset = ((json.sys.sunset * 1000 - Date.now()) / 1000 / 60 / 60).toFixed(2);
+    const time_before_friday = Math.floor(getTimeUntilNextFriday18h());
+    DATA.time_before_friday = time_before_friday < 0 ? "It's friday !" : `${time_before_friday} hours before friday`;
+    DATA.time_before_sunset =
+      time_before_sunset < 0 ? "It's night time !" : `${time_before_sunset} hours before sunset`;
   } catch (error) {
     throw error;
   }
