@@ -1,12 +1,9 @@
-// require("dotenv").config();
-// const Mustache = require("mustache");
-// const fetch = require("node-fetch");
-// const fs = require("fs");
 import { config } from "dotenv";
-config();
 import fetch from "node-fetch";
 import Mustache from "mustache";
 import fs from "fs";
+
+config();
 
 const DATE_OPTIONS = {
   weekday: "long",
@@ -18,9 +15,12 @@ const DATE_OPTIONS = {
   timeZoneName: "short",
   timeZone: "Europe/Paris",
 };
+
 const MUSTACHE_MAIN_DIR = "./main.mustache";
+
 let DATA = {
   name: "Thomas",
+  leetUsername: "Razmio",
   location: "Toulouse",
   date: new Date().toLocaleDateString("en-EN", DATE_OPTIONS),
 };
