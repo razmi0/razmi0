@@ -1,12 +1,12 @@
 # Welcome! 👋😎 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frazmi0"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frazmi0&countColor=%23dce775&style=flat" /></a>
 
-🌀 Last refresh at Tuesday, November 26 at 15:06 GMT+1. <br />
-#### Weather in Toulouse : Clear, 13.99°C, 72% humidity, 1.54 km/h wind speed.<br />
+🌀 Last refresh at Tuesday, November 26 at 16:04 GMT+1. <br />
+#### Weather in Toulouse : Clear, 13.99°C, 67% humidity, 1.54 km/h wind speed.<br />
 <ul>
     <li>Today min | max temperature : 13.99°C | 13.99°C</li>
     <li>Today sunrise | sunset : 08:02 | 17:21</li>
-    <li>2.24 hours before sunset</li>
-    <li>75 hours before friday night </li>
+    <li>1.28 hours before sunset</li>
+    <li>74 hours before friday night </li>
 </ul>
 <br />
 
@@ -21,3 +21,4 @@ Reach to me on : <br />
   <span>&nbsp;&nbsp;&nbsp;</span>
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razmi0&layout=donut&theme=transparent&langs_count=5&size_weight=0.5&count_weight=0.5&border_radius=3.75&hide_border=false&border_color=444c56" />
 </span>
+<input />
