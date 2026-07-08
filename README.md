@@ -1,12 +1,12 @@
 # Welcome! 👋😎 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frazmi0"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frazmi0&countColor=%23dce775&style=flat" /></a>
 
-🌀 Last refresh at Wednesday, July 8 at 09:33 GMT+2. <br />
-#### Weather in Toulouse : Clear, 28.11°C, 49% humidity, 2.6 km/h wind speed.<br />
+🌀 Last refresh at Wednesday, July 8 at 12:25 GMT+2. <br />
+#### Weather in Toulouse : Clear, 33.66°C, 33% humidity, 3.33 km/h wind speed.<br />
 <ul>
-    <li>Today min | max temperature : 28.11°C | 28.11°C</li>
+    <li>Today min | max temperature : 33.66°C | 33.66°C</li>
     <li>Today sunrise | sunset : 06:20 | 21:37</li>
-    <li>12.06 hours before sunset</li>
-    <li>58 hours before friday night </li>
+    <li>9.21 hours before sunset</li>
+    <li>55 hours before friday night </li>
 </ul>
 <br />
 
